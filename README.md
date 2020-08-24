@@ -1,4 +1,4 @@
-# pwp-capstones
+# A Murder Mystery 🕵️‍♂️
 ![codecademy-logo](https://github.com/ognjenstrbanovic/pwp-capstones/blob/master/codecademy-logo.jpg?raw=true)
 This was the final project for the Codecademy certificate "Programming with Python" that I finished in January of 2019.
 It was mostly a test of our learned skills in OOP (object-oriented programming).
